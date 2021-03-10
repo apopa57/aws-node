@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/apopa57/aws-node/issues"
   },
-  "homepage": "https://github.com/apopa57/aws-node#readme"
+  "homepage": "https://github.com/apopa57/aws-node#readme",
+  "dependencies": {
+    "koa": "^2.13.1"
+  }
 }
