@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/apopa57/aws-node#readme",
   "dependencies": {
-    "koa": "^2.13.1"
+    "koa": "^2.13.1",
+    "node-fetch": "^2.6.1"
   }
 }
