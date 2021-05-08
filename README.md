@@ -1,4 +1,4 @@
-This is a simple node application to learn about AWS ECS
+This is a simple node application to learn about AWS ECS.
 
 ## Docker image
 
